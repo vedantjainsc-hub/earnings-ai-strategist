@@ -1,0 +1,10 @@
+name: earnings-strategist
+version: 0.1.0
+description: "Turns public-company earnings materials into cited AI strategy memos, ranked opportunities, and bounded 30-day pilots."
+hermes_requires: ">=0.21.0"
+author: "Vedant Jain"
+license: "MIT"
+distribution_owned:
+  - SOUL.md
+  - skills/ai-strategy/earnings-call-ai-strategy/
+  - distribution.yaml
