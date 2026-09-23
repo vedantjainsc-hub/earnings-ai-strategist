@@ -4,7 +4,7 @@
 
 I built a specialized Hermes agent that turns a public company's latest earnings materials into an evidence-backed AI strategy memo. It identifies three operational problems, ties each one to exact source quotations, ranks possible AI interventions using a visible scoring model, and proposes one bounded 30-day pilot for executive approval.
 
-The current version is a working specialist bot and reusable analysis workflow. It is not yet a standalone SaaS product, an automated SEC data pipeline, or a proven production system. I have configured and smoke-tested the agent, its research rules, scoring logic, pilot framework, and document template. The next proof point is to run complete company case studies and test the quality of its recommendations with practitioners.
+The current version is a working specialist bot and reusable analysis workflow. It is not yet a standalone SaaS product, an automated SEC data pipeline, or a proven production system. I have configured and smoke-tested the agent, its research rules, scoring logic, pilot framework, and document template. I have also completed public-data case studies for PepsiCo and JPMorgan Chase. The next proof point is to test the quality of those recommendations with practitioners.
 
 ## 2. One-line descriptions for different audiences
 
@@ -42,7 +42,7 @@ From there, I designed an evidence-to-decision workflow. The agent first establi
 
 The opportunities are scored with a visible formula rather than a vague model judgment. The top defensible option becomes a 30-day shadow pilot with a baseline, target, owner role, human review points, guardrails, and a stop condition. The tool ends with an approval package rather than an open-ended chat response.
 
-The result is a working specialist agent inside Hermes, supported by a custom skill and memo template. I have verified that the profile loads, the skill is enabled, the bot is recognized in Bot Mode, authentication works, and the core behavior passes a live smoke test. Full company case studies and user validation are the next stage.
+The result is a working specialist agent inside Hermes, supported by a custom skill and memo template. I have verified that the profile loads, the skill is enabled, the bot is recognized in Bot Mode, authentication works, and the core behavior passes a live smoke test. Full public-data case studies for PepsiCo and JPMorgan Chase are now published; practitioner review and broader evaluation are the next stage.
 
 ## 5. The problem I chose
 
@@ -360,7 +360,7 @@ The weights create a consistent starting point. A bank, media company, and consu
 
 **Prompt:** What would you improve next?
 
-**Answer:** The workflow is implemented and smoke-tested, but it still needs complete case studies and human evaluation. I would run it on companies from three sectors, have domain practitioners score evidence quality and recommendation usefulness, and build a regression set for quotation accuracy and scoring consistency. After that, I would add structured SEC ingestion and a small interface for reviewing evidence and changing weights.
+**Answer:** The workflow is implemented and smoke-tested, and I have completed public-data cases for PepsiCo and JPMorgan Chase. It still needs human evaluation and a third-sector case. I would have domain practitioners score evidence quality and recommendation usefulness, then build a regression set for quotation accuracy and scoring consistency. After that, I would add structured SEC ingestion and a small interface for reviewing evidence and changing weights.
 
 ### Story 8: What I learned
 
@@ -543,7 +543,7 @@ Suggested topics:
 7. Tag the first stable package as `v0.1.0`.
 8. Invite reviewers to challenge the evidence and pilot recommendation, not just the interface.
 
-The machine is currently authenticated to GitHub as `vedantjainsc-hub`, so the repository can be created and pushed when the package and first case study are ready. No repository has been published as part of this story bank.
+The project is published at https://github.com/vedantjainsc-hub/earnings-ai-strategist, with the PepsiCo and JPMorgan Chase case studies and the video demonstration at https://youtu.be/HQ1QvQGP5NI.
 
 ## 16. Suggested publication sequence
 

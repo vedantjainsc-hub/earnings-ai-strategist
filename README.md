@@ -2,6 +2,21 @@
 
 A shareable [Hermes Agent](https://github.com/NousResearch/hermes-agent) profile that turns public-company earnings materials into cited AI opportunity memos and 30-day pilot plans.
 
+## Watch and read
+
+- [Watch the video demonstration](https://youtu.be/HQ1QvQGP5NI)
+- [Download the reader-facing project overview](docs/Earnings_AI_Strategist_Project_Overview.pdf)
+- [Read the accessible Markdown overview](docs/project-overview.md)
+
+## Published case studies
+
+| Company | Reporting context | Recommended pilot hypothesis | Artifacts |
+|---|---|---|---|
+| PepsiCo | Q2 2026 | Shadow-mode order-fill exception prioritization in one PFNA workflow | [PDF, DOCX, Markdown, and evidence ledger](examples/pepsico/) |
+| JPMorgan Chase | Q2 2026 | AI use-case evidence and portfolio review assistant for one non-customer-facing operations portfolio | [PDF, DOCX, Markdown, and evidence ledger](examples/jpmorgan-chase/) |
+
+Both analyses are independent demonstrations using public information. They are not affiliated with or endorsed by the companies, and their recommendations require internal validation.
+
 ## What it does
 
 Given a company name or ticker, the agent:
@@ -75,8 +90,10 @@ All components use a 1-to-5 scale. Risk is 1 for low risk and 5 for high risk. S
 - `docs/methodology.md`: evidence, prioritization, and pilot-design method.
 - `docs/limitations.md`: explicit boundaries and prohibited claims.
 - `docs/evaluation-plan.md`: the validation roadmap.
+- `docs/project-overview.md` and `docs/Earnings_AI_Strategist_Project_Overview.pdf`: reader-facing project guide.
 - `docs/portfolio-story-bank.md`: positioning, interview stories, demo script, and publication plan.
-- `examples/`: instructions for future reviewed company cases.
+- `examples/pepsico/`: PepsiCo Q2 2026 public-data case study.
+- `examples/jpmorgan-chase/`: JPMorgan Chase Q2 2026 public-data case study.
 
 ## Current status
 
@@ -90,10 +107,13 @@ Implemented and smoke-tested:
 - sensitivity warning;
 - 30-day pilot contract;
 - executive memo template.
+- full public-data demonstrations for PepsiCo and JPMorgan Chase;
+- public video demonstration;
+- shareable project-overview PDF.
 
 Not yet completed:
 
-- full human-reviewed company case studies;
+- practitioner review and a human-reviewed benchmark set;
 - a dedicated SEC ingestion service;
 - licensed transcript coverage;
 - a standalone web application;

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://investors.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q2-2026-earnings-release.pdf",
+      "title": "PepsiCo Reports Second-Quarter 2026 Results",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "In North America, the convenient foods business gained volume market share aided by innovation and affordability initiatives. Convenient foods net revenue declined and primarily reflects lower effective net pricing.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "Core operating profit increased 4%, with core operating margin contracting 40 basis points. The core operating profit performance was primarily driven by productivity savings and effective net pricing, partially offset by certain operating cost increases.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://investors.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q2-2026-prepared-management-remarks.pdf",
+      "title": "Second-Quarter 2026 Prepared Management Remarks",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "we will continue to reduce costs and drive operational excellence – with a focus on ensuring that key metrics such as service levels, order fill rates and costs per unit show improvements.",
+          "added": "2026-09-21"
+        },
+        {
+          "text": "We are also elevating productivity across the organization (most notably in developed markets) by advancing our enterprise-wide agenda through automation, digitalization and simplification initiatives across the business that aim to improve operating leverage.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000035/pep-20260613.htm",
+      "title": "PepsiCo Q2 2026 Form 10-Q",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "The 2019 Productivity Plan leverages new technology and business models to further simplify, harmonize and automate processes; re-engineers our go-to-market and information systems, including deploying the right automation for each market; and simplifies our organization and optimizes our manufacturing and supply chain footprint.",
+          "added": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.pepsico.com/en/investors/earnings",
+      "title": "PepsiCo Quarterly Reports",
+      "accessed": "2026-09-21",
+      "quotes": [
+        {
+          "text": "Transcript - Investors Q&A",
+          "added": "2026-09-21"
+        }
+      ]
+    }
+  ]
+}

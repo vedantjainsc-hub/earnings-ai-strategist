@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2026/2nd-quarter/6cded9fd-a164-4e6c-8cff-377357cf105c.pdf",
+      "title": "JPMorganChase 2Q26 Earnings Press Release",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "JPMORGANCHASE REPORTS SECOND-QUARTER 2026 NET INCOME OF $21.2 BILLION ($7.70 PER SHARE), NET INCOME EXCLUDING SIGNIFICANT ITEMS OF $16.9 BILLION ($6.14 PER SHARE)",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2026/2nd-quarter/9e8f3cef-bd2a-4140-b50f-83c4fba3f23c.pdf",
+      "title": "JPMorganChase 2Q26 Earnings Presentation",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "July 14, 2026",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "2Q26 Financial Results",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2026/2nd-quarter/2Q26-earnings-transcript.pdf",
+      "title": "JPMorganChase 2Q26 Earnings Transcript",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "We have a lot of NPVs that we know we have. The whole company is working this at this point. And I think there's almost 1,000 use cases today, though I would say that the really important ones are 50 – probably 50 across risk, fraud, marketing, hedging, prospecting, note-taking, idea generation, document reading.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "The ultimate beneficiary of AI will be our customers. And in a competitive capitalist world, we all will use AI to do a better job for the customers, and we can't just say, oh, it's going to increase our margins and we're going to keep that.",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "We are preparing to make sure we can retrain our people, and we have had discrete areas where we did reduce jobs by 30% or 40%. And most of those people were offered jobs elsewhere.",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2026/2nd-quarter/corp-q2-2026.pdf",
+      "title": "JPMorgan Chase & Co. Q2 2026 Form 10-Q",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "Noninterest expense was $27.3 billion, up 15%, predominantly driven by higher compensation expense as a result of higher revenue-related compensation, wage inflation and growth in the number of employees, as well as higher brokerage expense and distribution fees, continued investments in marketing and technology, and higher occupancy expense.",
+          "added": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026054343/0001628280-26-054343-index.html",
+      "title": "SEC Form 10-Q Filing Index",
+      "accessed": "2026-09-22",
+      "quotes": [
+        {
+          "text": "Filing Date 2026-08-06",
+          "added": "2026-09-22"
+        },
+        {
+          "text": "Period of Report 2026-06-30",
+          "added": "2026-09-22"
+        }
+      ]
+    }
+  ]
+}
